@@ -6,6 +6,6 @@ module.exports = {
   theme: {
     extend: {},
   },
-
+  base:"/deploy-github/",
   plugins: [],
 }
