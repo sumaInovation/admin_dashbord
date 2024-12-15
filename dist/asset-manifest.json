@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/admin_dashbord/static/css/main.2a487067.css",
+    "main.js": "/github.io/admin_dashbord/static/js/main.43790a8a.js",
+    "index.html": "/github.io/admin_dashbord/index.html",
+    "main.2a487067.css.map": "/github.io/admin_dashbord/static/css/main.2a487067.css.map",
+    "main.43790a8a.js.map": "/github.io/admin_dashbord/static/js/main.43790a8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a487067.css",
+    "static/js/main.43790a8a.js"
+  ]
+}
